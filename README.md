@@ -12,7 +12,7 @@ However, it's intended that we focus on the three projects in Portfolio for our 
 
 Access the projects above by clicking on their files. For the Tableau illustrations of the OSHA construction injury data, follow the link below.
 
-MAXIMIZE the project to FULL SCREEN! Follow the link, then click the Full Screen button on the bottom right.
+MAXIMIZE the Tableau project to FULL SCREEN! Follow the link, then click the Full Screen button on the bottom right.
 
 https://public.tableau.com/views/Osha_2015_16_17/BlueCollarSacrifice?:language=en-US&:display_count=n&:origin=viz_share_link
 
