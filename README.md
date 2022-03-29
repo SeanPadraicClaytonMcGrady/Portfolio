@@ -6,8 +6,6 @@ Welcome to my portfolio! These are projects I'm happy to showcase. They demonstr
 
 These projects give a great opportunity to discuss data analysis, and whether we ought to work together.
 
-Also included on my Github profile is another repository called "Minimum Viable Projects." These are proof of experience & project completion. Feel free to explore for a sense of how I operate.
-
 However, it's intended that we focus on the three projects in Portfolio for our discussion. These are the most recent in my memory, and I'm passionate about them.
 
 Access the projects above by clicking on their files. For the Tableau illustrations of the OSHA construction injury data, follow the link below.
@@ -15,5 +13,9 @@ Access the projects above by clicking on their files. For the Tableau illustrati
 MAXIMIZE the Tableau project to FULL SCREEN! Follow the link, then click the Full Screen button on the bottom right.
 
 https://public.tableau.com/views/Osha_2015_16_17/BlueCollarSacrifice?:language=en-US&:display_count=n&:origin=viz_share_link
+
+Also included on my Github profile is another repository called "Minimum Viable Projects." These are proof of experience & project completion. Feel free to explore for a sense of how I operate. Link below.
+
+https://github.com/SeanPadraicClaytonMcGrady/MVPs
 
 Have fun!
