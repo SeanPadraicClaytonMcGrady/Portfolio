@@ -12,8 +12,6 @@ MAXIMIZE the Tableau project to FULL SCREEN! Follow the link, then click the Ful
 
 https://public.tableau.com/views/Osha_2015_16_17/BlueCollarSacrifice?:language=en-US&:display_count=n&:origin=viz_share_link
 
-Also included on my Github profile is another repository called "Minimum Viable Projects." These are further proof of experience & project completion. Feel free to explore for a sense of how I operate. Link below.
+Have fun, and feel free to contact me via email at:
 
-https://github.com/SeanPadraicClaytonMcGrady/MVPs
-
-Have fun!
+sean.padraic.clayton.mcgrady@gmail.com
